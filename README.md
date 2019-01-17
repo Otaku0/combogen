@@ -25,9 +25,9 @@ Additional features are upcoming (such as handling symbolic characters), so stay
   
 #### VERSION: combogen v.1.1
   
-#### SOURCE REPOSITORY: [github.com/h8rt3rmin8r/combogen](https://github.com/h8rt3rmin8r/combogen)
+#### REPOSITORY: [github.com/h8rt3rmin8r/combogen](https://github.com/h8rt3rmin8r/combogen)
 
-#### SOURCE PASTEBIN: [pastebin.com/raw/wJ0sjLEa](https://pastebin.com/raw/wJ0sjLEa)
+#### PASTEBIN: [pastebin.com/raw/wJ0sjLEa](https://pastebin.com/raw/wJ0sjLEa)
 
 
 ## DISCLAIMERS
