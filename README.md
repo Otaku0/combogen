@@ -17,7 +17,9 @@ Script Name:   *combogen.sh*
 Version:       *combogen v.1.1*
   
 Source Code:
+
             *https://pastebin.com/raw/wJ0sjLEa*
+            
             *https://github.com/h8rt3rmin8r/combogen*
 
   A combonation and permutation generator written in Bash and Perl
@@ -45,18 +47,24 @@ Source Code:
 
 ## USAGE
 
-  combogen.sh <CHARACTER_SET> <OUTPUT_LENGTH>
-  combogen.sh -p <PERMUTATION_STRING>
-  combogen.sh --pw '<PERMUTATION_WORD_LIST>'
+```
+combogen.sh <CHARACTER_SET> <OUTPUT_LENGTH>
+
+combogen.sh -p <PERMUTATION_STRING>
+
+combogen.sh --pw '<PERMUTATION_WORD_LIST>'
+```
 
   ### CHARACTER SETS:
 
+```
       '-uc'      | Upper case letters (A-Z)
       '-lc'      | Lower case letters (a-z)
       '-nm'      | Numbers (0-9)
       '-uclc'    | Upper case and lower case letters (A-Z, a-z)
       '-ucnm'    | Upper case letters and numbers (A-Z, 0-9)
       '-lcnm'    | Lower case letters and numbers (a-z, 0-9)
+```
 
   ### OUTPUT LENGTH:
 
