@@ -10,11 +10,15 @@
 ################################################################################
 ```
 
-## INTRODUCTION ---------------------------------------------------------------
+## INTRODUCTION
 
-  Script Name:   combogen.sh
-  Version:       combogen v.1.1
-  Source Code:   https://pastebin.com/raw/wJ0sjLEa
+Script Name:   *combogen.sh*
+  
+Version:       *combogen v.1.1*
+  
+Source Code:
+            *https://pastebin.com/raw/wJ0sjLEa*
+            *https://github.com/h8rt3rmin8r/combogen*
 
   A combonation and permutation generator written in Bash and Perl
 
@@ -27,7 +31,7 @@
   WARNING: If used incorrectly, this function can take up all of the
   local system memory and can crash or damage your system!
 
-## INSTALLATION ---------------------------------------------------------------
+## INSTALLATION
 
   Save this script locally as "combogen.sh" and make it executable:
       `sudo chmod +x combogen.sh`
@@ -39,7 +43,7 @@
   into /usr/local/bin (or somewhere else in your user's PATH). By doing
   this, you can call "combogen.sh" from anywhere on the system.
 
-## USAGE ----------------------------------------------------------------------
+## USAGE
 
   combogen.sh <CHARACTER_SET> <OUTPUT_LENGTH>
   combogen.sh -p <PERMUTATION_STRING>
@@ -70,7 +74,7 @@
       Indicate one of: [--pw,--permutation-words] and a quoted word list
       Example: --pw 'this is awesome'
 
-## LICENSE --------------------------------------------------------------------
+## LICENSE
 
   Copyright 2018 ResoNova International Consulting, LLC
 
