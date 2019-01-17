@@ -1,32 +1,18 @@
 ```
-################################################################################
-#           _____ ________  _________  _____ _____  _____ _   _                #
-#          /  __ \  _  |  \/  || ___ \|  _  |  __ \|  ___| \ | |               #
-#          | /  \/ | | | .  . || |_/ /| | | | |  \/| |__ |  \| |               #
-#          | |   | | | | |\/| || ___ \| | | | | __ |  __|| . ` |               #
-#          | \__/\ \_/ / |  | || |_/ /\ \_/ / |_\ \| |___| |\  |               #
-#           \____/\___/\_|  |_/\____/  \___/ \____/\____/\_| \_/               #
-#                                                                              #
-################################################################################
+    ################################################################################
+    #           _____ ________  _________  _____ _____  _____ _   _                #
+    #          /  __ \  _  |  \/  || ___ \|  _  |  __ \|  ___| \ | |               #
+    #          | /  \/ | | | .  . || |_/ /| | | | |  \/| |__ |  \| |               #
+    #          | |   | | | | |\/| || ___ \| | | | | __ |  __|| . ` |               #
+    #          | \__/\ \_/ / |  | || |_/ /\ \_/ / |_\ \| |___| |\  |               #
+    #           \____/\___/\_|  |_/\____/  \___/ \____/\____/\_| \_/               #
+    #                                                                              #
+    ################################################################################
 ```
 
 ## INTRODUCTION
 
-#### Script Name:
-
-combogen.sh
-  
-#### Version:
-
-combogen v.1.1
-  
-#### Source Code:
-
-> [https://pastebin.com/raw/wJ0sjLEa](pastebin.com)
-
-> [https://github.com/h8rt3rmin8r/combogen](github.com)
-
-#### About:
+#### About
 
 Combogen is a combonation and permutation generator written in Bash and Perl. Combogen has three primary operations:
 
@@ -37,6 +23,17 @@ Combogen is a combonation and permutation generator written in Bash and Perl. Co
 Additional features are upcoming (such as handling symbolic characters), so stay tuned for future updates.
 
 PLEASE NOTE: If used incorrectly, this script can take up all of the local system memory and can crash or damage your system!
+  
+#### Version
+
+combogen v.1.1
+  
+#### Source Code
+
+> [https://pastebin.com/raw/wJ0sjLEa](pastebin.com)
+
+> [https://github.com/h8rt3rmin8r/combogen](github.com)
+
 
 ## INSTALLATION
 
@@ -60,7 +57,7 @@ combogen.sh -p <PERMUTATION_STRING>
 combogen.sh --pw '<PERMUTATION_WORD_LIST>'
 ```
 
-  ### CHARACTER SETS:
+  ### CHARACTER SETS
 
 ```
       '-uc'      | Upper case letters (A-Z)
@@ -71,18 +68,18 @@ combogen.sh --pw '<PERMUTATION_WORD_LIST>'
       '-lcnm'    | Lower case letters and numbers (a-z, 0-9)
 ```
 
-  ### OUTPUT LENGTH:
+  ### OUTPUT LENGTH
 
       Indicate one of '-[NUMBER]'
       Example: -7
 
-  ### PERMUTATION:
+  ### PERMUTATION
 
       Indicate one of: [-p,-P,--permutation] and a permutation string
       Example: --permutation 'abc123'
       Example: -p 'Bash Rocks'
 
-  ### PERMUTATION WORD LIST:
+  ### PERMUTATION WORD LIST
 
       Indicate one of: [--pw,--permutation-words] and a quoted word list
       Example: --pw 'this is awesome'
