@@ -18,20 +18,18 @@ Version:       *combogen v.1.1*
   
 Source Code:
 
-            *https://pastebin.com/raw/wJ0sjLEa*
-            
-            *https://github.com/h8rt3rmin8r/combogen*
+> (https://pastebin.com/raw/wJ0sjLEa)[pastebin.com]
+> (https://github.com/h8rt3rmin8r/combogen)[github.com]
 
-  A combonation and permutation generator written in Bash and Perl
+A combonation and permutation generator written in Bash and Perl
 
-  This script has three primary operations:
+This script has three primary operations:
 
       1) Generate combinations of a character set within a specified length
       2) Generate permutations of the characters contained in a string
       3) Generate permutations of the words contained in a string of words
 
-  WARNING: If used incorrectly, this function can take up all of the
-  local system memory and can crash or damage your system!
+NOTE: If used incorrectly, this script can take up all of the local system memory and can crash or damage your system!
 
 ## INSTALLATION
 
