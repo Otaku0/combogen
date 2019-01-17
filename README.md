@@ -12,34 +12,31 @@
 
 ## INTRODUCTION
 
-#### About
+#### ABOUT
 
 Combogen is a combonation and permutation generator written in Bash and Perl.
 Combogen is designed to perform three primary operations:
 
-1) Generate combinations of a character set within a specified length
-2) Generate permutations of the characters contained in a string
-3) Generate permutations of the words contained in a string of words
+    1. Generate combinations of a character set within a specified length
+    2. Generate permutations of the characters contained in a string
+    3. Generate permutations of the words contained in a string of words
 
 Additional features are upcoming (such as handling symbolic characters), so stay tuned for future updates.
   
-#### Version
-
-combogen v.1.1
+#### VERSION: combogen v.1.1
   
-#### Source Code
+#### SOURCE REPOSITORY: [github.com/h8rt3rmin8r/combogen](https://github.com/h8rt3rmin8r/combogen)
 
-- [pastebin.com](https://pastebin.com/raw/wJ0sjLEa)
+#### SOURCE PASTEBIN: [pastebin.com/raw/wJ0sjLEa](https://pastebin.com/raw/wJ0sjLEa)
 
-- [github.com](https://github.com/h8rt3rmin8r/combogen)
 
 ## DISCLAIMERS
 
-1) Local Execution Issues
+#### 1) LOCAL EXECUTION
 
 If used incorrectly, this script can take up all of the local system memory and can crash or damage your system. Use your judgment when selecting the size of your desired outputs. _Unless you are running combogen on a super computer, dont try running something like '-uclc -100'_
 
-2) Hacking
+#### 2) HACKING
 
 It just so happens that combogen is ... good at combinations. So when it comes to brute forcing something, combogen happens to be a pretty useful tool. For the record - please only hack things that belong to you. lol
 
