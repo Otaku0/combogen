@@ -12,11 +12,11 @@
 ## INTRODUCTION ---------------------------------------------------------------#
 #
 #    Script Name:   combogen.sh
-#    Version:       combogen v.1.1
-#    Pastebin:      https://pastebin.com/raw/wJ0sjLEa
-#    Repository:    https://github.com/h8rt3rmin8r/combogen
+#    Version:       combogen v.1.2
+#    Pastebin:      http://bit.ly/combogen
+#    Repository:    http://bit.ly/combogen-repo
 #
-#    A combonation and permutation generator written in Bash and Perl
+#    A combination and permutation generator written in Bash and Perl
 #
 #    Combogen is designed to perform three primary operations:
 #
@@ -576,7 +576,7 @@ if [[ "$1" == "--pw" || "$1" == "-pw" || "$1" == "--wp" || "$1" == "-wp" || "$1"
     then permutate_words; exit 0
 fi
 
-# Combonation generator
+# Combination generator
 if [[ "$1" =~ ^-[0-9]+$ ]]; then OUT_LEN="${1//-}"; fi
 if [[ "$2" =~ ^-[0-9]+$ ]]; then OUT_LEN="${2//-}"; fi
 if [[ "$1" =~ ^-[ulcnm]+$ ]]; then CHR_SET="${1//-}"; fi
