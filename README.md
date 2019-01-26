@@ -14,7 +14,7 @@
 
 #### ABOUT
 
-Combogen is a combonation and permutation generator written in Bash and Perl.
+Combogen is a combination and permutation generator written in Bash and Perl.
 Combogen is designed to perform three primary operations:
 
     1. Generate combinations of a character set within a specified length
@@ -23,11 +23,11 @@ Combogen is designed to perform three primary operations:
 
 Additional features are upcoming (such as handling symbolic characters), so stay tuned for future updates.
   
-#### VERSION: combogen v.1.1
+#### VERSION: combogen v.1.2
   
-#### REPOSITORY: [github.com/h8rt3rmin8r/combogen](https://github.com/h8rt3rmin8r/combogen)
+#### REPOSITORY: [github.com/h8rt3rmin8r/combogen](http://bit.ly/combogen-repo)
 
-#### PASTEBIN: [pastebin.com/raw/wJ0sjLEa](https://pastebin.com/raw/wJ0sjLEa)
+#### PASTEBIN: [pastebin.com/raw/wJ0sjLEa](http://bit.ly/combogen)
 
 
 ## DISCLAIMERS
